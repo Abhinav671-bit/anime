@@ -1,1 +1,2 @@
-Readme file is created
+This is a test directory
+
